@@ -1,4 +1,4 @@
-Nearby Shops 
+### Nearby Shops 
 
 
 <img src="https://nearbyshops.org/images/1.jpg" width="208">   <img src="https://nearbyshops.org/images/3.jpg" width="208">   <img src="https://nearbyshops.org/images/6.jpg" width="208"> 
